@@ -126,6 +126,8 @@ The dashboard helps answer questions such as:
 - Business Intelligence
 - Data Storytelling
 
+## Dashboard Link
+https://app.powerbi.com/groups/me/reports/2c1192be-0fd3-4700-86fe-7bce57374971/fdd280610196dd04b15e?experience=power-bi
 
 ## 🔑 Key Insights
 
